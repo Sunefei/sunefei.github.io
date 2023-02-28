@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yifei Sun's Homepage"
+title                    : "Kewei Cheng's Homepage"
 title_separator          : "-"
-name                     : &name "Yifei Sun"
+name                     : &name "Kewei Cheng"
 description              : &description "Ph.D. Student @UCLA"
 url                      : https://vivian1993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
