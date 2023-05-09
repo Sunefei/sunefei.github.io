@@ -16,8 +16,6 @@ My current research interests lie primarily in the area of **Machine Learning an
 
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
-### Foundation Model for Graph Generalized Pre-training.
-* Prepare to submit to NeurIPS' 23...
 ### Narrow the Gap between Graph Pre-training and Fine-tuning. 
 * Prepare to submit to NeurIPS' 23...
 
