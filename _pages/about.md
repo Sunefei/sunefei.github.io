@@ -12,12 +12,14 @@ Welcome to Yifei Sun's Personal Homepage!
 
 I am a CS Ph.D. student at Zhejiang University (ZJU), fortunately advised by Prof. [Yang Yang](http://yangy.org/), and worked closely with Prof. [Jiarong Xu](https://galina0217.github.io/) from Fudan University.
 
-My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to breaking the limitations of GNNs, graph pre-training, and real-world applications on graph.
+My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs.
 
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
-### Narrow the gap between Graph Pre-training and Fine-tuning. 
-* Under review in IJCAI' 23...
+### Foundation Model for Graph Generalized Pre-training.
+* Prepare to submit to NeurIPS' 23...
+### Narrow the Gap between Graph Pre-training and Fine-tuning. 
+* Prepare to submit to NeurIPS' 23...
 
 ### Break the limitation of GNNs' homophily assumption.
 * **Yifei Sun**, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022. [PDF](https://www.ijcai.org/proceedings/2022/0310.pdf)
