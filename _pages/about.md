@@ -17,7 +17,7 @@ My current research interests lie primarily in the area of **Machine Learning an
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
 ### Narrow the Gap between Graph Pre-training and Fine-tuning. 
-* Prepare to submit to NeurIPS' 23...
+* NeurIPS' 23 Under Review...
 
 ### Break the limitation of GNNs' homophily assumption.
 * **Yifei Sun**, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022. [PDF](https://www.ijcai.org/proceedings/2022/0310.pdf)

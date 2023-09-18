@@ -13,10 +13,10 @@ Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2023/05/08)
 
 Education
 ====== 
-* Ph.D student in Computer Science, Zhejiang University, Sept 2019 - Present
+* Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Present
   * Advisor: Prof. [Yang Yang](http://yangy.org/)
   * Research Interest: Machine Learning and Data Mining on Graphs.
-  * Note: Specifically, in Sept. 2019 I was a master student and my research interest was Software Defined Networking (SDN). Due to the passion about AI and Graph Mining, in Dec 2020 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
+  * Note: Specifically, in Sept. 2019 I was a master student and my research interest was Software Defined Networking (SDN). Due to the passion about AI and Graph Mining, in Sept. 2021 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
 
 <!-- * Master student in Aerospace Information, Zhejiang University, Sept 2019 - Dec 2020
   * Advisor: Prof. Guanghua Song and Prof. Bowei Yang 
@@ -25,7 +25,7 @@ Education
 
 <!-- * B.E. in Computer Science and Technology, Dalian University of Technology (DUT), 2014-2019 -->
 * B.E. in Computer Science and Technology and B.A. in Japanese, Dalian University of Technology, Sept 2014 - Jun 2019
-  <!-- * Supervisor: Prof. Nan Ding -->
+  * Supervisor: Prof. Nan Ding
   * Note: Due to pursuing a double bachelor degree program, my undergraduate study at DLUT took five years. 
   <!-- * I earned B.E. in Computer Science and Technology, B.A. in Japanese, and my love story with GLW. -->
 
