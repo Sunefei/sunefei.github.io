@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/), and worked closely with Prof. [Jiarong Xu](https://galina0217.github.io/) from Fudan University. Currently, I am visiting National University of Singapore (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)).
+I am a CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/). Currently, I am visiting National University of Singapore (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and Prof. [Bryan Hooi](https://bhooi.github.io/)).
 
 My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in this era of LLMs, I hope to contribute my efforts to the Graph foundation model. 
 
