@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yifei Sun's Homepage"
 title_separator          : "-"
-name                     : &name "Yifei Sun"
-description              : &description "Ph.D. Student @ZJU"
+name                     : &name "Yifei Sun (孙逸飞)"
+description              : &description "Ph.D. Student @ ZJU|NUS"
 url                      : https://sunefei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunefei.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yifei Sun"
   avatar           : "WestLakeSmall.jpg"
-  bio              : "Ph.D. Student @ZJU"
-  location         : "Hangzhou, China"
+  bio              : "Ph.D. Student @ ZJU|NUS"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9mxdFawAAAAJ"

@@ -13,8 +13,9 @@ Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2023/12/18)
 
 Education
 ====== 
-* Visiting scholar in School of Computing, National University of Singapore, Nov 2023 - Present
+* Visiting Ph.D. in School of Computing, National University of Singapore, Nov 2023 - Present
   * Advisor: Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+  * Working with Prof. [Bryan Hooi](https://bhooi.github.io/) and [Zemin Liu](https://zemin-liu.github.io/).
 
 * Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Present
   * Advisor: Prof. [Yang Yang](http://yangy.org/)
