@@ -13,14 +13,14 @@ Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2024/04/01)
 
 Education
 ====== 
-* Visiting Ph.D. in School of Computing, National University of Singapore, Nov 2023 - Present
-  * Advisor: Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
-  * Working with Prof. [Bryan Hooi](https://bhooi.github.io/) and [Zemin Liu](https://zemin-liu.github.io/).
+* Visiting Ph.D. in School of Computing, National University of Singapore, Nov 2023 - Jun 2024
+  * Advisor: Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and Prof. [Bryan Hooi](https://bhooi.github.io/)
+  * Working with Prof. [Zemin Liu](https://zemin-liu.github.io/).
 
 * Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Present
   * Advisor: Prof. [Yang Yang](http://yangy.org/)
   * Research Interest: Machine Learning and Data Mining on Graphs.
-  * Note: Specifically, in Sept. 2019 I was a master student and my research interest was Software Defined Networking (SDN). Due to the passion about AI and Graph Mining, in Sept. 2021 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
+  * Note: Specifically, in Sept. 2019 I was a master student focusing on Software Defined Networking (SDN). Due to the passion about Graph Learning and Data Mining, in Sept. 2021 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
 
 <!-- * Master student in Aerospace Information, Zhejiang University, Sept 2019 - Dec 2020
   * Advisor: Prof. Guanghua Song and Prof. Bowei Yang 
