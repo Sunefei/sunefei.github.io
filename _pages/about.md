@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/). Previously, I visit National University of Singapore (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
+I am a final-year CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/). Previously, I visit National University of Singapore (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
+
 
 My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in this era of LLMs, I hope to contribute my efforts to the Graph foundation model and Graph LLMs.
 
-⭐️ The main goal of my research is to build generalizable graph models that can be trained on rich and complex graph data, enhancing its capability across various downstream data and tasks. 
+⭐️ The main goal of my research is to build generalizable graph models that can be trained on rich and complex graph data, enhancing its capability across various downstream data and tasks.
 
 Ongoing Work
 ------
