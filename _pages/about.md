@@ -27,7 +27,7 @@ News
 ------
 
 - [2024.5] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is released on Arxiv.
-- [2024.5] Our paper "Chromosomal Structural Abnormality Diagnosis by Homologous Similarity" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
+- [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
 - [2024.5] Our paper "[Exploring Correlations of Self-supervised Tasks for Graphs](https://arxiv.org/abs/2405.04245)" is accepted by ICML 2024. Congrats to Taoran Fang!
 
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
@@ -37,13 +37,13 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 
 [🎈**Generalization at the Graph Data Level**]
 
-- **Yifei Sun**, Qi Zhu, Yang Yang, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. <u>Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns.</u> In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'24), 2024. [Paper](https://arxiv.org/abs/2312.13583)
+- **Yifei Sun**, Qi Zhu, Yang Yang, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583). In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
 
 ### Break the limitation of GNNs on graph data homophily
 
 [🎈**Generalization at the Graph Data Level**]
 
-- **Yifei Sun**, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. <u>Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network.</u> In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022. [Paper](https://www.ijcai.org/proceedings/2022/0310.pdf)
+- **Yifei Sun**, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. [Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network](https://www.ijcai.org/proceedings/2022/0310.pdf). In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022.
 
 Academic Activities
 ------
