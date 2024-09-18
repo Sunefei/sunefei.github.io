@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2024/04/01)
+Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2024/09/18)
 
 Education
 ====== 
