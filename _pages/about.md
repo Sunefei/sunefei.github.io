@@ -17,7 +17,7 @@ My current research interests lie primarily in the area of **Machine Learning an
 Ongoing Work
 ------
 
-- [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains.
+- [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. (1/2 Under Review)
 - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Multi-Label Node Classification.
 - [💡**Generalization at the Graph Task Level**] Tackling Multi-label Node Classification. (Under Review)
   
