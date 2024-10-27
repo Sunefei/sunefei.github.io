@@ -14,6 +14,9 @@ My current research interests lie primarily in the area of **Machine Learning an
 
 ⭐️ The main goal of my Ph.D. research is to build generalizable graph models and frameworks, capable of learning from rich and complex graph data and enhancing their utility across diverse downstream tasks and datasets.
 
+
+
+
 Ongoing Work
 ------
 
@@ -26,6 +29,7 @@ If interested, please drop me a message by email.
 News
 ------
 
+- [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
 - [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
 - [2024.5] Our paper "[Exploring Correlations of Self-supervised Tasks for Graphs](https://arxiv.org/abs/2405.04245)" is accepted by ICML 2024. Congrats to Taoran Fang!
