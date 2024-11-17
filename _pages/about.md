@@ -20,15 +20,16 @@ My current research interests lie primarily in the area of **Machine Learning an
 Ongoing Work
 ------
 
-- [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. (1/2 Under Review)
-- [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Multi-Label Node Classification.
-- [💡**Generalization at the Graph Task Level**] Tackling Multi-label Node Classification. (Under Review)
+- [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains.
+- [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification.
+<!-- - [💡**Generalization at the Graph Task Level**] Tackling Multi-label Node Classification. (Under Review) -->
   
 If interested, please drop me a message by email.
 
 News
 ------
 
+- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://scholar.google.com/citations?user=9mxdFawAAAAJ)" is accepted by KDD 2025. The camera-ready version and related code will be released soon!
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
 - [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
@@ -38,6 +39,10 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 ------
 
 ### Narrow the Gap between Graph Pre-training and Fine-tuning
+
+[🌏**Generalization at the Graph Principle Level**]
+
+- **Yifei Sun**, Yang Yang, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](https://scholar.google.com/citations?user=9mxdFawAAAAJ). Just accepted by ACM KDD 2025. Hope to see you in Toronto, Canada, August 2025.
 
 [🎈**Generalization at the Graph Data Level**]
 
