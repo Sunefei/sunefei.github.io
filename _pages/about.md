@@ -40,19 +40,19 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 
 [🌏**Generalization at the Graph Principle Level**]
 
-#### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability.
+### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability.
 
 - **Yifei Sun**, Yang Yang, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](https://scholar.google.com/citations?user=9mxdFawAAAAJ). Just accepted by ACM KDD 2025. Hope to see you in Toronto, Canada, August 2025.
 
 [🎈**Generalization at the Graph Data Level**]
 
-#### TL;DR: Narrow the Gap between Graph Pre-training and Fine-tuning to enhance the generalization of graph models.
+### TL;DR: Narrow the Gap between Graph Pre-training and Fine-tuning to enhance the generalization of graph models.
 
 - **Yifei Sun**, Qi Zhu, Yang Yang, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583). In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
 
 [🎈**Generalization at the Graph Data Level**]
 
-#### TL;DR: Break the limitations of GNNs by creating new message passing paradigm.
+### TL;DR: Break the limitations of GNNs by creating new message passing paradigm.
 
 - **Yifei Sun**, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. [Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network](https://www.ijcai.org/proceedings/2022/0310.pdf). In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022.
 
