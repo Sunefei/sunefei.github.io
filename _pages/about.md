@@ -19,8 +19,12 @@ My current research interests lie primarily in the area of **Machine Learning an
 Ongoing Work
 ------
 
-- [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains.
-- [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification.
+[☀️**Graph for LLM**] Enhancing in-context learning with graph.
+
+[☀️**Graph for LLM**] Building domain-specific graph LLM for the financial data.
+
+<!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
+<!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Tackling Multi-label Node Classification. (Under Review) -->
   
 If interested, please drop me a message by email.
@@ -28,7 +32,8 @@ If interested, please drop me a message by email.
 News
 ------
 
-- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://scholar.google.com/citations?user=9mxdFawAAAAJ)" is accepted by KDD 2025. The camera-ready version and related code will be released soon!
+- [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/forum?id=3X3LuwzZrl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))" is accepted by ICLR 2025.
+- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf)" is accepted by KDD 2025.
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
 - [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
@@ -37,12 +42,17 @@ News
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
 
+[💡**Generalization at the Graph Task Level**]
+
+### TL;DR: Provide insights into multi-label node classification (MLNC) and model the propagation of label influences.
+
+- **Yifei Sun**, Zemin Liu, Bryan Hooi, Yang Yang, Rizal Fathony, Jia Chen, Bingsheng He. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/forum?id=3X3LuwzZrl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). Accepted by ICLR 2025.
 
 [🌏**Generalization at the Graph Principle Level**]
 
 ### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability.
 
-- **Yifei Sun**, Yang Yang, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](https://scholar.google.com/citations?user=9mxdFawAAAAJ). Just accepted by ACM KDD 2025. Hope to see you in Toronto, Canada, August 2025.
+- **Yifei Sun**, Yang Yang, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf). Accepted by ACM KDD 2025.
 
 [🎈**Generalization at the Graph Data Level**]
 
