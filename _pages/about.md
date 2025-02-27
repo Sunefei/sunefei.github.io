@@ -10,10 +10,9 @@ redirect_from:
 
 I am a final-year CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/). Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
-My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in this era of LLMs, I am dedicated to building Graph Foundation Models (GFMs) and developing specialized graph LLMs.
+My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in the era of LLMs, I am also dedicated to leveraging graph structures to help LLMs achieve better performance in more challenging real-world scenarios.
 
 ⭐️ The main goal of my Ph.D. research is to build generalizable graph models and frameworks, capable of learning from rich and complex graph data and enhancing their utility across diverse downstream tasks and datasets.
-
 
 
 Ongoing Work
@@ -32,7 +31,8 @@ If interested, please drop me a message by email.
 News
 ------
 
-- [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/forum?id=3X3LuwzZrl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))" is accepted by ICLR 2025.
+- [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025. Hope to see you in Singapore🇸🇬!!
+- [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
 - [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf)" is accepted by KDD 2025.
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
@@ -46,7 +46,7 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 
 ### TL;DR: Provide insights into multi-label node classification (MLNC) and model the propagation of label influences.
 
-- **Yifei Sun**, Zemin Liu, Bryan Hooi, Yang Yang, Rizal Fathony, Jia Chen, Bingsheng He. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/forum?id=3X3LuwzZrl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). Accepted by ICLR 2025.
+- **Yifei Sun**, Zemin Liu, Bryan Hooi, Yang Yang, Rizal Fathony, Jia Chen, Bingsheng He. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl). Accepted by ICLR 2025.
 
 [🌏**Generalization at the Graph Principle Level**]
 
