@@ -33,7 +33,7 @@ News
 
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025. Hope to see you in Singapore🇸🇬!!
 - [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
-- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf)" is accepted by KDD 2025.
+- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
 - [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
