@@ -49,6 +49,11 @@ staticman:
 atom_feed:
   path: # blank (default) uses feed.xml
 
+
+# Google scholar
+google_scholar_stats_use_cdn: true
+google_scholar_repository: "sunefei/sunefei.github.io"  # 添加这一行
+
 # SEO Related
 google_site_verification:
 bing_site_verification:
