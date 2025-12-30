@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifei Sun"
+title: "Yifei Sun (孙逸飞)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
