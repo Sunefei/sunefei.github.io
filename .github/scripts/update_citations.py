@@ -1,9 +1,8 @@
 import requests
+from scholarly import scholarly
 import json
 import os
 import time
-from scholarly import scholarly
-from fake_useragent import UserAgent
 
 def get_citation_count(scholar_id, max_retries=3):
     """
@@ -11,30 +10,25 @@ def get_citation_count(scholar_id, max_retries=3):
     """
     for attempt in range(max_retries):
         try:
-            # 设置随机User-Agent
-            ua = UserAgent()
-            scholarly.set_random_user_agent(ua.random)
+            print(f"Attempt {attempt + 1}: Fetching citation count for {scholar_id}")
             
-            # 添加延迟避免被检测
-            if attempt > 0:
-                time.sleep(10)
-            
-            print(f"Attempt {attempt + 1}/{max_retries}...")
+            # 直接搜索作者，不使用已废弃的方法
             author = scholarly.search_author_id(scholar_id)
-            author = scholarly.fill(author)
-            citations = author['citedby']
+            author_filled = scholarly.fill(author)
             
-            print(f"Successfully fetched {citations} citations")
+            citations = author_filled.get('citedby', 0)
+            print(f"Successfully fetched citations: {citations}")
             return citations
             
         except Exception as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             if attempt < max_retries - 1:
-                wait_time = (attempt + 1) * 15  # 递增等待时间
+                wait_time = (attempt + 1) * 15  # 15, 30, 45秒
                 print(f"Waiting {wait_time} seconds before retry...")
                 time.sleep(wait_time)
-    
-    return None
+            else:
+                print(f"All {max_retries} attempts failed")
+                return None
 
 def update_json_file(citations):
     """
@@ -53,8 +47,21 @@ def update_json_file(citations):
     
     print(f"Updated citations to {citations}")
 
+def get_existing_citations():
+    """
+    获取现有的引用数
+    """
+    try:
+        with open('google-scholar-stats/gs_data_shieldsio.json', 'r') as f:
+            data = json.load(f)
+            return data.get('message', '0')
+    except:
+        return '0'
+
 if __name__ == "__main__":
     SCHOLAR_ID = os.environ.get('SCHOLAR_ID', 'FT8SBIkAAAAJ')
+    
+    print(f"Starting citation update for Scholar ID: {SCHOLAR_ID}")
     
     citations = get_citation_count(SCHOLAR_ID)
     
@@ -62,11 +69,9 @@ if __name__ == "__main__":
         update_json_file(citations)
         print("Citations updated successfully!")
     else:
-        # 读取现有文件保持数据
-        try:
-            with open('google-scholar-stats/gs_data_shieldsio.json', 'r') as f:
-                existing_data = json.load(f)
-                print(f"Failed to update, keeping existing citations: {existing_data.get('message', 'unknown')}")
-        except:
-            print("Failed to update citations and no existing data found")
-        exit(0)  # 不报错，避免workflow失败
+        existing = get_existing_citations()
+        print(f"Failed to update, keeping existing citations: {existing}")
+        update_json_file(existing)  # 保持现有数据
+    
+    # 不退出失败状态，避免workflow报错
+    exit(0)
