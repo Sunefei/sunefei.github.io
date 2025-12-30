@@ -17,7 +17,7 @@ Education
   * Advisor: Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and Prof. [Bryan Hooi](https://bhooi.github.io/)
   * Working with Prof. [Zemin Liu](https://zemin-liu.github.io/).
 
-* Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Present
+* Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Sept 2025
   * Advisor: Prof. [Yang Yang](http://yangy.org/)
   * Research Interest: Machine Learning and Data Mining on Graphs.
   * Note: Specifically, in Sept. 2019 I was a master student focusing on Software Defined Networking (SDN). Due to the passion about Graph Learning and Data Mining, in Sept. 2021 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
@@ -47,6 +47,7 @@ Education
 
 Selected Honors and Awards
 ======
+* PhD in CS with Honors, Zhejiang University, 2025
 * Outstanding Graduate Student of the Year, Zhejiang University, 2020 - 2021, 2021 - 2022
 * Merit Graduate Student of the Year, Zhejiang University, 2020 - 2021
 * Second-class Academic Scholarship, Dalian University of Technology, 2020 - 2021
@@ -54,7 +55,7 @@ Selected Honors and Awards
 Skills
 ======
 * Programming: 
-  * Python (PyTorch, PyG, DGL), C++, C, MySQL.
+  * Python (PyTorch, PyG, DGL), C++, C, MySQL, Latex.
 * Natural Languages:
   * Mandarin Chinese (Native)
   * English (Proficient)
