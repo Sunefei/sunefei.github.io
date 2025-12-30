@@ -29,11 +29,11 @@ My research interests include **graph mining, foundation models for structured d
 Ongoing Work
 ------
 
-[☀️**Graph-Enhanced LLM Reasoning**] Enhancing in-context learning with graph structure.
+[☀️**Graph-Enhanced LLM Reasoning**] Enhancing in-context learning (ICL) with graph structure.
 
-[☀️**Unified GraphRAG**] Building Unified GraphRAG Framework for both context and logic information.
+[☀️**Unified GraphRAG**] Building unified GraphRAG framework for both context and logic information.
 
-[☀️**Planning for Agentic Systems**] Enabling Dynamic and Adaptive Planning for Agentic RAG and multi-turn dialogs.
+[☀️**Planning for Agentic Systems**] Enabling dynamic and adaptive planning for agentic RAG and multi-turn dialogs.
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
