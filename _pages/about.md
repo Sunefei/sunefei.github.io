@@ -43,7 +43,7 @@ If interested, please drop me a message by email.
 News
 ------
 
-- [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025.
+- [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025. Congrats to Liyao Li!
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025. Hope to see you in Singapore🇸🇬!!
 - [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
 - [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
