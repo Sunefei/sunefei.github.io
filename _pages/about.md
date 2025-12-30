@@ -8,19 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Yang Yang](http://yangy.org/). Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in the era of LLMs, I am also dedicated to leveraging graph structures to help LLMs achieve better performance in more challenging real-world scenarios.
+I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
+Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
-⭐️ The main goal of my Ph.D. research is to build generalizable graph models and frameworks, capable of learning from rich and complex graph data and enhancing their utility across diverse downstream tasks and datasets.
+My research interests include **graph mining, foundation models for structured data, and reasoning and planning for LLMs**. I have published several papers in CCF-A tier venues, with <a href="https://scholar.google.com/citations?user=9mxdFawAAAAJ">
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar. 
+
+<!-- My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in the era of LLMs, I am also dedicated to leveraging graph structures to help LLMs achieve better performance in more challenging real-world scenarios. -->
+
+<!-- ⭐️ The main goal of my Ph.D. research is to build generalizable graph models and frameworks, capable of learning from rich and complex graph data and enhancing their utility across diverse downstream tasks and datasets. -->
 
 
 Ongoing Work
 ------
 
-[☀️**Graph for LLM**] Enhancing in-context learning with graph.
+[☀️**Graph-Enhanced LLM Reasoning**] Enhancing in-context learning with graph structure.
 
-[☀️**Graph for LLM**] Building domain-specific graph LLM for the financial data.
+[☀️**Unified GraphRAG**] Building Unified GraphRAG Framework for both context and logic information.
+
+[☀️**Planning for Agentic Systems**] Enabling Dynamic and Adaptive Planning for Agentic RAG and multi-turn dialogs.
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
@@ -31,6 +44,7 @@ If interested, please drop me a message by email.
 News
 ------
 
+- [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025.
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025. Hope to see you in Singapore🇸🇬!!
 - [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
 - [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
