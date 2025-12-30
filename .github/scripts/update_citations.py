@@ -1,37 +1,40 @@
 import requests
-from scholarly import scholarly
 import json
 import os
-import signal
+import time
+from scholarly import scholarly
+from fake_useragent import UserAgent
 
-class TimeoutException(Exception):
-    pass
-
-def timeout_handler(signum, frame):
-    raise TimeoutException()
-
-def get_citation_count(scholar_id, timeout=60):
+def get_citation_count(scholar_id, max_retries=3):
     """
-    获取Google Scholar的引用数，带超时限制
+    获取Google Scholar的引用数，带重试机制
     """
-    # 设置超时
-    signal.signal(signal.SIGALRM, timeout_handler)
-    signal.alarm(timeout)
+    for attempt in range(max_retries):
+        try:
+            # 设置随机User-Agent
+            ua = UserAgent()
+            scholarly.set_random_user_agent(ua.random)
+            
+            # 添加延迟避免被检测
+            if attempt > 0:
+                time.sleep(10)
+            
+            print(f"Attempt {attempt + 1}/{max_retries}...")
+            author = scholarly.search_author_id(scholar_id)
+            author = scholarly.fill(author)
+            citations = author['citedby']
+            
+            print(f"Successfully fetched {citations} citations")
+            return citations
+            
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed: {e}")
+            if attempt < max_retries - 1:
+                wait_time = (attempt + 1) * 15  # 递增等待时间
+                print(f"Waiting {wait_time} seconds before retry...")
+                time.sleep(wait_time)
     
-    try:
-        author = scholarly.search_author_id(scholar_id)
-        author = scholarly.fill(author)
-        citations = author['citedby']
-        signal.alarm(0)  # 取消超时
-        return citations
-    except TimeoutException:
-        print(f"Request timed out after {timeout} seconds")
-        return None
-    except Exception as e:
-        print(f"Error fetching citations: {e}")
-        return None
-    finally:
-        signal.alarm(0)  # 确保取消超时
+    return None
 
 def update_json_file(citations):
     """
@@ -53,12 +56,17 @@ def update_json_file(citations):
 if __name__ == "__main__":
     SCHOLAR_ID = os.environ.get('SCHOLAR_ID', 'FT8SBIkAAAAJ')
     
-    citations = get_citation_count(SCHOLAR_ID, timeout=120)  # 120秒超时
+    citations = get_citation_count(SCHOLAR_ID)
     
     if citations is not None:
         update_json_file(citations)
         print("Citations updated successfully!")
     else:
-        print("Failed to update citations, keeping existing data")
-        # 不退出失败，避免workflow报错
-        exit(0)
+        # 读取现有文件保持数据
+        try:
+            with open('google-scholar-stats/gs_data_shieldsio.json', 'r') as f:
+                existing_data = json.load(f)
+                print(f"Failed to update, keeping existing citations: {existing_data.get('message', 'unknown')}")
+        except:
+            print("Failed to update citations and no existing data found")
+        exit(0)  # 不报错，避免workflow失败
