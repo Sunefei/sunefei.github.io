@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University （ZJU） in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
+I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University (ZJU) in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
 Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
 My research interests include **graph mining, foundation models for structured data, and reasoning and planning for LLMs**. I have published several papers in top tier venues, with <a href="https://scholar.google.com/citations?user=9mxdFawAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on google scholar. 
