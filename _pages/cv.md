@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Click [here](YifeiSun_CV.pdf) to download the PDF version. (Updated 2025/02/10) -->
+Click [here](YifeiSun_CV.pdf) to download the PDF version（中文版）. (Updated 2026/01/20)
 
 Education
 ====== 
@@ -17,7 +17,7 @@ Education
   * Advisor: Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and Prof. [Bryan Hooi](https://bhooi.github.io/)
   * Working with Prof. [Zemin Liu](https://zemin-liu.github.io/).
 
-* Ph.D student in Computer Technology, Zhejiang University, Sept 2021 - Sept 2025
+* Ph.D in Computer Technology, Zhejiang University, Sept 2021 - Sept 2025
   * Advisor: Prof. [Yang Yang](http://yangy.org/)
   * Research Interest: Machine Learning and Data Mining on Graphs.
   * Note: Specifically, in Sept. 2019 I was a master student focusing on Software Defined Networking (SDN). Due to the passion about Graph Learning and Data Mining, in Sept. 2021 I applied for the Ph.D. program advised by Prof. [Yang Yang](http://yangy.org/).
