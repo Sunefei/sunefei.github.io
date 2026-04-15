@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University (ZJU) in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
+Since graduating with my PhD, I have been working closely with Prof. [Yunjun Gao](https://mypage.zju.edu.cn/en/gaoyj_en) and his DAILY Group.
 Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
 My research interests include **graph mining, foundation models for structured data, and reasoning and planning for LLMs**. I have published several papers in top tier venues, with <a href="https://scholar.google.com/citations?user=9mxdFawAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | cgi_escape }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on google scholar. 
@@ -43,7 +44,7 @@ If interested, please drop me a message by email.
 News
 ------
 
-- [2026.1] Our paper "[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/epdf/10.1145/3774904.3792720)" is accepted by WWW 2026. Congrats to Haoyang Zhong on getting it accepted on the first submission! 
+- [2026.1] Our paper "[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3774904.3792720)" is accepted by WWW 2026. Congrats to Haoyang Zhong on getting it accepted on the first submission! 
 - [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025. Congrats to Liyao Li!
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025.
 - [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
