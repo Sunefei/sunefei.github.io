@@ -19,7 +19,7 @@ I received my Ph.D. degree from the College of Computer Science and Technology a
 Since graduating with my PhD, I have been working closely with Prof. [Yunjun Gao](https://mypage.zju.edu.cn/en/gaoyj_en) and his DAILY Group.
 Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
-My research interests include **graph mining, foundation models for structured data, and reasoning and planning for LLMs**. I have published several papers in top tier venues, with <a href="https://scholar.google.com/citations?user=9mxdFawAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | cgi_escape }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on google scholar. 
+My research interests include **foundation models for structured data, agentic RL, and whole-body VLA**. I have published several papers in top tier venues, with <a href="https://scholar.google.com/citations?user=9mxdFawAAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | cgi_escape }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on google scholar. 
 
 <!-- My current research interests lie primarily in the area of **Machine Learning and Data Mining on Graphs**, including but not limited to graph neural networks, graph pre-training, and real-world applications on graphs. Moreover, in the era of LLMs, I am also dedicated to leveraging graph structures to help LLMs achieve better performance in more challenging real-world scenarios. -->
 
@@ -29,11 +29,13 @@ My research interests include **graph mining, foundation models for structured d
 Ongoing Work
 ------
 
-[🍀**Graph-Enhanced LLM Reasoning**] Enhancing LLMs with high-order structure as context.
+<!-- [🍀**Graph-Enhanced LLM Reasoning**] Enhancing LLMs with high-order structure as context. -->
 
-[💡**Planning for Agentic Systems**] Enhancing planning capabilities for agentic RAG and multi-turn dialogues.
+💡**Planning and Evolving for Agentic Systems.**
 
-[❤️**Relational Reasoning Model**] Building solutions that use structured data as reasoning foundation.
+❤️**Relational Reasoning Models.**
+
+🍀**Memory for Whole-body VLA.**
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
@@ -57,7 +59,7 @@ News
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
 
-### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond documents.
+### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond retrieval.
 
 - Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://github.com/zjunet/HyGRAG). Accepted by WWW 2026.
 
