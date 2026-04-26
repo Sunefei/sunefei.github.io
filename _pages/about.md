@@ -30,12 +30,12 @@ Ongoing Work
 ------
 
 <!-- [🍀**Graph-Enhanced LLM Reasoning**] Enhancing LLMs with high-order structure as context. -->
+<!-- 💡❤️🍀 -->
+- **Planning and Evolving for Agentic Systems.**
 
-💡**Planning and Evolving for Agentic Systems.**
+- **Reasoning Models for Relational Data.**
 
-❤️**Relational Reasoning Models.**
-
-🍀**Memory for Whole-body VLA.**
+- **Memory for Whole-body VLA.**
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
@@ -61,31 +61,31 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 
 ### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond retrieval.
 
-- Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://github.com/zjunet/HyGRAG). Accepted by WWW 2026.
+- Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://github.com/zjunet/HyGRAG). ![Stars](https://img.shields.io/github/stars/Sunefei/HyGRAG) Accepted by WWW 2026.
 
 <!-- [💡**Generalization at the Graph Task Level**] -->
 
 ### TL;DR: Provide insights into multi-label node classification (MLNC) and model the propagation of label influences.
 
-- **Yifei Sun**, Zemin Liu$^\dagger$, Bryan Hooi, Yang Yang$^\dagger$, Rizal Fathony, Jia Chen, Bingsheng He$^\dagger$. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl). Accepted by ICLR 2025.
+- **Yifei Sun**, Zemin Liu$^\dagger$, Bryan Hooi, Yang Yang$^\dagger$, Rizal Fathony, Jia Chen, Bingsheng He$^\dagger$. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl). ![Stars](https://img.shields.io/github/stars/Xtra-Computing/LIP_MLNC) Accepted by ICLR 2025.
 
 <!-- [🌏**Generalization at the Graph Principle Level**] -->
 
 ### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability.
 
-- **Yifei Sun**, Yang Yang$^\dagger$, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf). Accepted by ACM KDD 2025.
+- **Yifei Sun**, Yang Yang$^\dagger$, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf). ![Stars](https://img.shields.io/github/stars/Sunefei/PatchNet) Accepted by ACM KDD 2025.
 
 <!-- [🎈**Generalization at the Graph Data Level**] -->
 
 ### TL;DR: Narrow the Gap between Graph Pre-training and Fine-tuning to enhance the generalization of graph models.
 
-- **Yifei Sun**, Qi Zhu, Yang Yang$^\dagger$, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583). In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
+- **Yifei Sun**, Qi Zhu, Yang Yang$^\dagger$, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583). ![Stars](https://img.shields.io/github/stars/Sunefei/G-Tuning) Accepted by AAAI 2024.
 
 <!-- [🎈**Generalization at the Graph Data Level**] -->
 
 ### TL;DR: Break the limitations of GNNs by creating new message passing paradigm.
 
-- **Yifei Sun**, Haoran Deng, Yang Yang$^\dagger$, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. [Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network](https://www.ijcai.org/proceedings/2022/0310.pdf). In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22), 2022.
+- **Yifei Sun**, Haoran Deng, Yang Yang$^\dagger$, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. [Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network](https://www.ijcai.org/proceedings/2022/0310.pdf). ![Stars](https://img.shields.io/github/stars/Sunefei/PathNet) Accepted by IJCAI 2022.
 
 $\dagger$: Corresponding author.
 
