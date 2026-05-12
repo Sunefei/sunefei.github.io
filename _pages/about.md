@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University (ZJU) in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
+I am an assistant professor (ZJU-100 Young Professor) at Zhejiang University. I received my Ph.D. degree from the College of Computer Science and Technology at Zhejiang University (ZJU) in 2025, under the supervision of Prof. [Yang Yang](http://yangy.org/). 
 Since graduating with my PhD, I have been working closely with Prof. [Yunjun Gao](https://mypage.zju.edu.cn/en/gaoyj_en) and his DAILY Group.
 Previously, I visited National University of Singapore (NUS) from Nov 2023 to Jun 2024. (working with Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/), Prof. [Bryan Hooi](https://bhooi.github.io/) and Prof. [Zemin Liu](https://zemin-liu.github.io/)).
 
