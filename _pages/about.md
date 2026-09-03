@@ -35,7 +35,7 @@ Ongoing Work
 
 - **Reasoning Models for Relational Data.**
 
-- **Memory for Whole-body VLA.**
+- **Harnessing VLA for Long Horizon tasks.**
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
@@ -46,44 +46,50 @@ If interested, please drop me a message by email.
 News
 ------
 
+- [2026.8] Our paper "[Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://sunefei.github.io/)" is accepted by EMNLP 2026 (main).
+- [2026.8] Our paper "[RAT: RunAnyThing via Fully Automated Environment Configuration](https://arxiv.org/pdf/2604.23190)" is accepted by EMNLP 2026 (main).
+- [2026.8] Our paper "[PTCG-Bench: Can LLM Agents Master Pokémon Trading Card Game?](https://arxiv.org/pdf/2605.29653)" is accepted by EMNLP 2026 (findings).
 - [2026.1] Our paper "[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3774904.3792720)" is accepted by WWW 2026. Congrats to Haoyang Zhong on getting it accepted on the first submission! 
 - [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025. Congrats to Liyao Li!
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025.
 - [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
-- [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
+<!-- - [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
-- [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)!
+- [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)! -->
 <!-- - [2024.5] Our paper "[Chromosomal Structural Abnormality Diagnosis by Homologous Similarity](https://arxiv.org/abs/2407.08204)" is accepted by KDD 2024 (ADS). Congrats to Juren Li!
 - [2024.5] Our paper "[Exploring Correlations of Self-supervised Tasks for Graphs](https://arxiv.org/abs/2405.04245)" is accepted by ICML 2024. Congrats to Taoran Fang! -->
 
 Selected Publications (Full version see [Google Scholar](https://scholar.google.com/citations?user=9mxdFawAAAAJ))
 ------
 
-### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond retrieval.
+<!-- ### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond retrieval. -->
+
+- Haoyang Zhong, **Yifei Sun$^\dagger$**, Shiwei Liu, Jie Li, Chunping Wang, Yang Yang.  [Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://github.com/zjunet/LoCoRAG). ![Stars](https://img.shields.io/github/stars/zharry01/LoCoRAG) Accepted by EMNLP 2026.
+
 
 - Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://github.com/zjunet/HyGRAG). ![Stars](https://img.shields.io/github/stars/Sunefei/HyGRAG) Accepted by WWW 2026.
 
 <!-- [💡**Generalization at the Graph Task Level**] -->
 
-### TL;DR: Provide insights into multi-label node classification (MLNC) and model the propagation of label influences.
+<!-- ### TL;DR: Provide insights into multi-label node classification (MLNC) and model the propagation of label influences. -->
 
 - **Yifei Sun**, Zemin Liu$^\dagger$, Bryan Hooi, Yang Yang$^\dagger$, Rizal Fathony, Jia Chen, Bingsheng He$^\dagger$. [Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl). ![Stars](https://img.shields.io/github/stars/Xtra-Computing/LIP_MLNC) Accepted by ICLR 2025.
 
 <!-- [🌏**Generalization at the Graph Principle Level**] -->
 
-### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability.
+<!-- ### TL;DR: Generalized graph model that tackles feature heterogeneity to achieve cross-domain transferability. -->
 
 - **Yifei Sun**, Yang Yang$^\dagger$, Xiao Feng, Zijun Wang, haoyang zhong, Chunping Wang, Lei Chen.  [Handling Feature Heterogeneity with Learnable Graph Patches](http://yangy.org/works/gnn/KDD25_GraphPatches.pdf). ![Stars](https://img.shields.io/github/stars/Sunefei/PatchNet) Accepted by ACM KDD 2025.
 
 <!-- [🎈**Generalization at the Graph Data Level**] -->
 
-### TL;DR: Narrow the Gap between Graph Pre-training and Fine-tuning to enhance the generalization of graph models.
+<!-- ### TL;DR: Narrow the Gap between Graph Pre-training and Fine-tuning to enhance the generalization of graph models. -->
 
 - **Yifei Sun**, Qi Zhu, Yang Yang$^\dagger$, Chunping Wang, Tianyu Fan, Jiajun Zhu, Lei Chen. [Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns](https://arxiv.org/abs/2312.13583). ![Stars](https://img.shields.io/github/stars/Sunefei/G-Tuning) Accepted by AAAI 2024.
 
 <!-- [🎈**Generalization at the Graph Data Level**] -->
 
-### TL;DR: Break the limitations of GNNs by creating new message passing paradigm.
+<!-- ### TL;DR: Break the limitations of GNNs by creating new message passing paradigm. -->
 
 - **Yifei Sun**, Haoran Deng, Yang Yang$^\dagger$, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, and Lei Chen. [Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network](https://www.ijcai.org/proceedings/2022/0310.pdf). ![Stars](https://img.shields.io/github/stars/Sunefei/PathNet) Accepted by IJCAI 2022.
 
