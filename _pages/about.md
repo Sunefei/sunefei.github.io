@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifei Sun (孙逸飞)"
+title: "[Yifei Sun (孙逸飞)](http://yangy.org/)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -50,9 +50,9 @@ News
 - [2026.8] Our paper "[RAT: RunAnyThing via Fully Automated Environment Configuration](https://arxiv.org/pdf/2604.23190)" is accepted by EMNLP 2026 (main).
 - [2026.8] Our paper "[PTCG-Bench: Can LLM Agents Master Pokémon Trading Card Game?](https://arxiv.org/pdf/2605.29653)" is accepted by EMNLP 2026 (findings).
 - [2026.1] Our paper "[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3774904.3792720)" is accepted by WWW 2026. Congrats to Haoyang Zhong on getting it accepted on the first submission! 
-- [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025. Congrats to Liyao Li!
+<!-- - [2025.11] Our paper "[Table as a modality for Large Language models](https://www.arxiv.org/abs/2512.00947)" is accepted by NeurIPS 2025. Congrats to Liyao Li!
 - [2025.1] Our paper "[Multi-Label Node Classification with Label Influence Propagation](https://openreview.net/pdf?id=3X3LuwzZrl)" is accepted by ICLR 2025.
-- [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)".
+- [2025.1] One co-authored paper accepted by WWW'25 (Oral)! Congrats to Yufei He! "[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](https://openreview.net/forum?id=lEQEKUpXt6#discussion)". -->
 <!-- - [2024.11] Our paper "[Handling Feature Heterogeneity with Learnable Graph Patches](https://dl.acm.org/doi/10.1145/3690624.3709242)" is accepted by KDD 2025.
 - [2024.10] Attended SMP'24 and received the [**Best Poster Award**](https://mp.weixin.qq.com/s/7z6ehuyRZJb2CkSUtOvMww)! Thank you all for the recognition!
 - [2024.10] Our paper "[G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)" is accepted by NeurIPS 2024. Congrats to [Xiaoxin He](https://xiaoxinhe.github.io/)! -->
