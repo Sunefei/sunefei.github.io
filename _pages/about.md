@@ -31,11 +31,22 @@ Ongoing Work
 
 <!-- [🍀**Graph-Enhanced LLM Reasoning**] Enhancing LLMs with high-order structure as context. -->
 <!-- 💡❤️🍀 -->
-- **Planning and Evolving for Agentic Systems.**
+**Humanoid Robots & Embodied AI.**
+- Harness & Memory for Long-Horizon Tasks
+- Efficient, High-Frequency VLA
+- Data Recipes for VLA Pretraining & Fine-Tuning
 
-- **Reasoning Models for Relational Data.**
+**LLM Agents & RL**
 
-- **Harnessing VLA for Long Horizon tasks.**
+- Agentic System for Structured-Data
+- Memory-Augmented Agents
+- Long-Horizon Agent Systems
+
+<!-- **Data-Centric AI**
+
+- Foundation Models for Structured Data
+- AI-Ready Data Construction
+- Data Quality, Mixing & Curricula -->
 
 <!-- - [🌏**Generalization at the Graph Principle Level**] Towards Graph Foundation Model across Domains. -->
 <!-- - [💡**Generalization at the Graph Task Level**] Graph LLM for Zero-Shot Node Classification. -->
