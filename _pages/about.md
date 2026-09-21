@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Yifei Sun (孙逸飞)](http://yangy.org/)"
+title: "[Yifei Sun (孙逸飞)](https://person.zju.edu.cn/sunyifei)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
