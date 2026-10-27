@@ -6,31 +6,34 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # 允许手动触发
 
+permissions:
+  contents: write
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
-    
+
     steps:
-     - name: Checkout repository
-       uses: actions/checkout@v4
-       with:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
         fetch-depth: 0
-    
-     - name: Set up Python
-       uses: actions/setup-python@v5
-       with:
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
         python-version: '3.12'
-        
+
     - name: Install dependencies
       run: |
         pip install scholarly requests
-    
+
     - name: Update citations
       env:
         SCHOLAR_ID: ${{ secrets.SCHOLAR_ID }}
       run: |
         python .github/scripts/update_citations.py
-    
+
     - name: Commit and push if changed
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
