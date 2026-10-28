@@ -57,7 +57,7 @@ If interested, please drop me a message by email.
 News
 ------
 
-- [2026.8] Our paper "[Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://sunefei.github.io/)" is accepted by EMNLP 2026 (main).
+- [2026.8] Our paper "[Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://aclanthology.org/2026.emnlp-main.2183.pdf)" is accepted by EMNLP 2026 (main).
 - [2026.8] Our paper "[RAT: RunAnyThing via Fully Automated Environment Configuration](https://arxiv.org/pdf/2604.23190)" is accepted by EMNLP 2026 (main).
 - [2026.8] Our paper "[PTCG-Bench: Can LLM Agents Master Pokémon Trading Card Game?](https://arxiv.org/pdf/2605.29653)" is accepted by EMNLP 2026 (findings).
 - [2026.1] Our paper "[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3774904.3792720)" is accepted by WWW 2026. Congrats to Haoyang Zhong on getting it accepted on the first submission! 
@@ -68,10 +68,10 @@ Selected Publications (Full version see [Google Scholar](https://scholar.google.
 
 <!-- ### TL;DR: Unifies context-aware and relation-aware retrieval through hierarchical hybrid structure, enabling reasoning beyond retrieval. -->
 
-- Haoyang Zhong, **Yifei Sun$^\dagger$**, Shiwei Liu, Jie Li, Chunping Wang, Yang Yang.  [Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://github.com/zjunet/LoCoRAG). ![Stars](https://img.shields.io/github/stars/zharry01/LoCoRAG) Accepted by EMNLP 2026.
+- Haoyang Zhong, **Yifei Sun$^\dagger$**, Shiwei Liu, Jie Li, Chunping Wang, Yang Yang.  [Self-Correcting Agentic RAG via Memory-Grounded Failure Localization](https://aclanthology.org/2026.emnlp-main.2183.pdf). ![Stars](https://img.shields.io/github/stars/zharry01/LoCoRAG) Accepted by EMNLP 2026.
 
 
-- Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://github.com/zjunet/HyGRAG). ![Stars](https://img.shields.io/github/stars/Sunefei/HyGRAG) Accepted by WWW 2026.
+- Haoyang Zhong, **Yifei Sun$^\dagger$**, Antong Zhang, Chunping Wang, Lei Chen, Yang Yang.  [A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://dl.acm.org/doi/pdf/10.1145/3774904.3792720). ![Stars](https://img.shields.io/github/stars/Sunefei/HyGRAG) Accepted by WWW 2026.
 
 <!-- [💡**Generalization at the Graph Task Level**] -->
 
