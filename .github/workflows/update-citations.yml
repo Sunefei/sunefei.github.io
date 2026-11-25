@@ -26,7 +26,9 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install scholarly requests
+        python -m pip install "scholarly==1.7.11" requests "bibtexparser>=1,<2"
+        python -m pip check
+        python -c "from scholarly import scholarly; print('scholarly import OK')"
 
     - name: Update citations
       env:
